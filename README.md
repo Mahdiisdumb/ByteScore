@@ -143,5 +143,5 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ---
 
-**Made with ❤️ by the ByteScore team**
+**Made with ❤️ by Mahdi Studios**
 Check Your Folders Byte count with ucn music
